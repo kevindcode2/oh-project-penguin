@@ -1,2 +1,4 @@
 ## Oh-Project-Penguin
-#Hello
+### Contributors
+- Andrea
+- Kevin
